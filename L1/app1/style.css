@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 400px;
+    text-align: center;
+}
+
+.deleteButton {
+    color: green;
+}
+input {
+    padding: 12px;
+}
+.login-btn {
+    color: orange;
+    background: crimson;
+    border: 0;
+    padding: 12px;
+    width: 120px;
+}
+
+.login-btn:hover {
+    cursor: orangered;
+}
